@@ -22,4 +22,4 @@ The music was a spontaneous improvisation recorded with a friend of mine in my a
 
 Start the game with `python3 asteroids.py`. The first startup might take a while if pygame needs to load the font.
 
-You control your spaceship with the arrow keys (up, right, and left) and shoot with the space bar. The escape key will pause the game and the f key will show the frame rate. Exit the application by closing the window.
+You control your spaceship with the arrow keys (`up`, `right`, and `left`) and shoot with the `space` key. The `escape` key will pause the game and the `f` key will show the frame rate. Exit the application by closing the window.
